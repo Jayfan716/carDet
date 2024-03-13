@@ -1,7 +1,0 @@
-path: ./datasets/parking_final # dataset root dir
-train: train
-val: val
-test: test
-
-nc: 2
-names: ['occupied','empty']
